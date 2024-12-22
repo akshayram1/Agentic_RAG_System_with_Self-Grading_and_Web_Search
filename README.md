@@ -22,6 +22,8 @@ A Colab-based implementation of an intelligent search system that combines Retri
 - Tavily API
 - HuggingFace Embeddings (all-MiniLM-L6-v2)
 
+![Architecture Diagram](archetecture.png)
+
 ## 📋 Prerequisites
 
 ```bash
